@@ -1,0 +1,23 @@
+.simpson-card {
+    max-width: 750px;
+    padding: 15px;
+    margin: 15px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.simpson-name {
+    font-size: 42px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.simpson-age {
+    font-size: 36px;
+    margin-bottom: 15px;
+}
+
+.simpson-img {
+    padding-top: 20px;
+    height: 400px;
+}

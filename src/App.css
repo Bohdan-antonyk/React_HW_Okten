@@ -1,0 +1,13 @@
+.wrapper-content-box {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.main-title {
+    font-size: 60px;
+    text-align: center;
+    font-weight: 600;
+    margin-bottom: 40px;
+}
