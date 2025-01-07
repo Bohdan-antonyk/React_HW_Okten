@@ -7,7 +7,7 @@ const TodoComponents = () => {
     const [users, setUsers] = useState<IUser[]>([])
     useEffect(() => {
         getUsers()
-            .then(response => setUsers(response))
+            .then((response: IUser[]) => setUsers(response))
     }, [])
 
     return (
