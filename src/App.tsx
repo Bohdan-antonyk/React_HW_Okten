@@ -1,5 +1,5 @@
 import './App.css'
-import Todos from "./Components/Todos/Todos.tsx";
+import Todos from "./сomponents/Todos/Todos.tsx";
 
 function App() {
 
