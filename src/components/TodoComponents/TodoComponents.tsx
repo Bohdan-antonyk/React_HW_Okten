@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react";
 import {IUser} from "../../models/IUser.ts";
-import TodoComponent from "../TodoComponent/TodoComponent.tsx";
 import {getUsers} from "../../services/api.services.ts";
+import TodoComponent from "../TodoComponent/TodoComponent.tsx";
 
 const TodoComponents = () => {
     const [users, setUsers] = useState<IUser[]>([])
