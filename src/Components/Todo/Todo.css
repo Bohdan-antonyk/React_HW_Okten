@@ -1,0 +1,19 @@
+.card {
+    width: 400px;
+    padding: 10px;
+    margin: 10px;
+    font-size: 24px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.card-true {
+    background-color: lightgreen;
+    border: 2px solid #3bf13b;
+}
+
+.card-false {
+    background-color: #fa7373;
+    border: 2px solid #fa2d2d;
+}
+
